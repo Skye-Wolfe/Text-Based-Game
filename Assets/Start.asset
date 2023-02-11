@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272b1ddce5c7cdd4f8939339b8614d30, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  gameText: You are at the entrance of the dungeon, would you like to go left down
+    a long hallway or right into a round room? (use arrow keys to navagte)
+  otherStates:
+  - {fileID: 11400000, guid: 6c68d3ed8ea4bcc45a35251431f7ea5c, type: 2}
+  - {fileID: 11400000, guid: e3c8b6dabf545964e9287f85a539a13e, type: 2}

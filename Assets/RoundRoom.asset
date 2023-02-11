@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272b1ddce5c7cdd4f8939339b8614d30, type: 3}
+  m_Name: RoundRoom
+  m_EditorClassIdentifier: 
+  gameText: You are in the round room with a fountain in the middle, there is lage
+    dinning hall to your left. Do you go left into the dining hall or right to the
+    entrance? (use arrow keys to navigate)
+  otherStates:
+  - {fileID: 11400000, guid: af3bd45dadea7c64987480800c126c97, type: 2}
+  - {fileID: 11400000, guid: 2852c29486da7f14db1904a8c55c3d6d, type: 2}

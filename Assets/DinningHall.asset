@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 272b1ddce5c7cdd4f8939339b8614d30, type: 3}
+  m_Name: DinningHall
+  m_EditorClassIdentifier: 
+  gameText: You are in a grand dinning hall, there is a hole in the wall to your
+    left. Do you head throught the hole or right to the round room? (use arrow keys
+    to navigate)
+  otherStates:
+  - {fileID: 11400000, guid: fb86d94e8da71b4449a7119d89d0d7ff, type: 2}
+  - {fileID: 11400000, guid: e3c8b6dabf545964e9287f85a539a13e, type: 2}
